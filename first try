@@ -1,0 +1,12 @@
+const Discord = require('discord.js');
+const client = new Discord.Client();
+if (message === 'jag är hungrig') {
+ console.log('http://vadfanskajaglagatillmiddag.nu');
+} else if (message === 'i am hungry') {
+	console.log('http://vadfanskajaglagatillmiddag.nu'); 
+} else if (message === "i'm hungry") {
+	console.log('http://vadfanskajaglagatillmiddag.nu'); 
+}  else  {
+	console.log(); 
+} 
+
